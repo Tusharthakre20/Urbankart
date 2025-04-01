@@ -5,7 +5,7 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+https://urbankart.vercel.app/
 
 ## Features
 
@@ -24,7 +24,7 @@ https://reactjs-ecommerce-app.vercel.app/
 Clone the project
 
 ```bash
-  git clone https://github.com/sTusharThakre/React_E-Commerce
+  https://github.com/Tusharthakre20/Urbankart.git
 ```
 
 Go to the project directory
@@ -62,6 +62,6 @@ Just raise an issue, we will discuss it.
 
 ## Feedback
 
-If you have any feedback, please reach out to me [here](https://sTusharThakre.github.io/#contact)
+If you have any feedback, please reach out to me [here]https://github.com/Tusharthakre20
 
 
